@@ -28,4 +28,9 @@ Outra alternativa é clicar no botão verde "clone or download" neste repositór
 
 <br> Para isso, abri as duas tabelas no Python utilizando o Pandas e implementei o tratamento de dados. As pontuações de todos os consumidores para as 29 questões foram padronizadas e a contribuição de cada questão para a variabilidade dos dados foi obtida através de Principal Component Analysis (PCA). Construí um "gráfico de cotovelo" para identificar os componentes que explicam a maior parte da variação de dados - os "drivers de valor" na linguagem do Marketing. Através deste gráfico foi possível observar que três componentes - ainda não plenamente identificados - explicavam 59,42% dos dados.</br> 
 
+![image](https://user-images.githubusercontent.com/65292945/127380406-9b9f2b3b-7019-4496-9422-4b77814f3e8a.png)
+
 <br> Através do cálculo de "loading" (carga) dos componentes principais, descobri quais questões estavam relacionadas com cada driver, identificando assim os atributos que foram mais importantes na avaliação dos consumidores. Finalmente, criei um gráfico de linhas para organizar a pontuação de todas as marcas em cada um dos três atributos identificados. </br>
+
+![image](https://user-images.githubusercontent.com/65292945/127380495-677638e4-3079-46a5-a852-980b07c58067.png)
+
