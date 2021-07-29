@@ -30,7 +30,7 @@ Outra alternativa é clicar no botão verde "clone or download" neste repositór
 * scikit-learn
 * Principal Component Analysis
 
-## 🎫 Roteiro do Projeto
+## 🎫 Visão Geral do Projeto
 
 <br> As 29 perguntas envolvem todo tipo de características sobre alvejantes (intensidade da limpeza, suavidade do aroma, etc.), a proposta do projeto é identificar nas questões quais podem ser considerados os "drivers de valor" - os atributos que direcionam a demanda dos consumidores. </br> 
 
