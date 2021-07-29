@@ -22,11 +22,19 @@ git clone https://github.com/jluss0ll1/brand-positioning
 ```
 Outra alternativa é clicar no botão verde "clone or download" neste repositório e então clicar em "Download ZIP". Em seguida, extrair o arquivo ZIP no local que você desejar editar ou executar o código.
 
+## 💾 Ferramentas utilizadas
+
+* Python
+* Jupyter Notebook
+* Pandas
+* scikit-learn
+* Principal Component Analysis
+
 ## 🎫 Roteiro do Projeto
 
 <br> As 29 perguntas envolvem todo tipo de características sobre alvejantes (intensidade da limpeza, suavidade do aroma, etc.), a proposta do projeto é identificar nas questões quais podem ser considerados os "drivers de valor" - os atributos que direcionam a demanda dos consumidores. </br> 
 
-<br> Para isso, abri as duas tabelas no Python utilizando o Pandas e implementei o tratamento de dados. As pontuações de todos os consumidores para as 29 questões foram padronizadas e a contribuição de cada questão para a variabilidade dos dados foi obtida através de Principal Component Analysis (PCA). Construí um "gráfico de cotovelo" para identificar os componentes que explicam a maior parte da variação de dados - os "drivers de valor" na linguagem do Marketing. Através deste gráfico foi possível observar que três componentes - ainda não plenamente identificados - explicavam 59,42% dos dados.</br> 
+<br> Para isso, abri as duas tabelas no Python utilizando o Pandas e implementei o tratamento de dados. As pontuações de todos os consumidores para as 29 questões foram padronizadas e a contribuição de cada questão para a variabilidade dos dados foi obtida através de Principal Component Analysis (PCA). Construí um "gráfico de cotovelo" para identificar os componentes que explicam a maior parte da variação de dados - os "drivers de valor" na linguagem do Marketing. Pelo gráfico é possível observar que três componentes - ainda não plenamente identificados - explicavam 59,42% dos dados.</br> 
 
 ![image](https://user-images.githubusercontent.com/65292945/127380406-9b9f2b3b-7019-4496-9422-4b77814f3e8a.png)
 
@@ -34,3 +42,6 @@ Outra alternativa é clicar no botão verde "clone or download" neste repositór
 
 ![image](https://user-images.githubusercontent.com/65292945/127380495-677638e4-3079-46a5-a852-980b07c58067.png)
 
+<br> Pode-se observar, por exemplo, que a marca de alvejantes AbraxF obteve o melhor desempenho no quesito "Limpeza", enquanto a marca RiUtil obteve a melhor performance em "Intensidade" e "Suavidade". </br>
+
+<br> A informação sobre o posicionamento das marcas e a obtenção de drivers serve como um guia para equipes publicitárias enfatizarem os pontos fortes de sua própria marca ou comparar o desempenho dos seus produtos com os concorrentes. Pode também guiar a equipe responsável pelo desenvolvimento do produto em um redesign para melhorar seu desempenho nos aspectos que obteve baixa pontuação.  </br> 
